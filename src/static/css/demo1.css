@@ -1,0 +1,12 @@
+/* body {
+	background-color: #222;
+	margin: 0;
+	overflow: hidden;
+	cursor: pointer;
+} */
+
+.container{
+	background :url("../images/backsath.png");
+	width:'100%';
+	height:'100%';
+}
