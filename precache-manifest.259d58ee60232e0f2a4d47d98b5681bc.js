@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c910ff81684feef505335fe1ad3f8be7",
+    "revision": "ae61f8af7acda237d4196de1727fba80",
     "url": "/ubiquitous-bassoon/index.html"
   },
   {
-    "revision": "1a81643194325d96ae1a",
-    "url": "/ubiquitous-bassoon/static/css/main.1f69820e.chunk.css"
+    "revision": "0b7160dc1e7006be9f45",
+    "url": "/ubiquitous-bassoon/static/css/main.68e3bad5.chunk.css"
   },
   {
     "revision": "350086573eaa9006e183",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ubiquitous-bassoon/static/js/2.9a7d51ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a81643194325d96ae1a",
+    "revision": "0b7160dc1e7006be9f45",
     "url": "/ubiquitous-bassoon/static/js/main.d706ac8b.chunk.js"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ubiquitous-bassoon/static/js/runtime-main.7a30da87.js"
   },
   {
-    "revision": "8d326706437779ab18fe2a6f97f22679",
-    "url": "/ubiquitous-bassoon/static/media/back_template.8d326706.jpeg"
-  },
-  {
     "revision": "2aa0f5e0fc65a1e787a420e3cb53977c",
     "url": "/ubiquitous-bassoon/static/media/backsath.2aa0f5e0.png"
+  },
+  {
+    "revision": "b11ebaf17afd5b57b74906f24a893c70",
+    "url": "/ubiquitous-bassoon/static/media/bck_temp2.b11ebaf1.jpeg"
   },
   {
     "revision": "f008c3ec5832246c4586d4f96803b503",
