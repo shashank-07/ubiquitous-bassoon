@@ -1,0 +1,18 @@
+.maback{
+    /* background:url('./static/images/sachin\ cols\ msgs1\ \(1\).JPG'); */
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    /* background-size: cover; */
+    position: absolute;
+  }
+
+  .mback{
+    width: 100%;
+    height: 100%;
+
+    position: absolute;
+    overflow-y: scroll;
+
+  }
+

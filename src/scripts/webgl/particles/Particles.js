@@ -3,11 +3,18 @@ import * as THREE from 'three';
 import TouchTexture from './TouchTexture';
 import { TweenLite } from 'gsap/TweenMax';
 import { Power1 } from 'gsap';
+//import {vertShader} from '../../../shaders/particleVert';
 
+import { Shaders, Node, GLSL } from "gl-react";
+
+
+  
 
 const glslify = require('glslify');
 
+
 export default class Particles {
+	
 	
 	constructor(webgl) {
 		this.webgl = webgl;
@@ -35,6 +42,7 @@ export default class Particles {
 	}
 
 	initPoints(discard) {
+		
 		this.numPoints = this.width * this.height;
 
 		let numVisible = this.numPoints;
@@ -62,7 +70,6 @@ export default class Particles {
 				if (originalColors[i * 4 + 0] > threshold) numVisible++;
 			}
 
-			// console.log('numVisible', numVisible, this.numPoints);
 		}
 
 		const uniforms = {

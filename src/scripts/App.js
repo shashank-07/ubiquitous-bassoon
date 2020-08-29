@@ -2,25 +2,30 @@ import WebGLView from './webgl/WebGLView';
 import GUIView from './gui/GUIView';
 
 export default class App {
-
+	
 	constructor() {
 
 	}
 
-	init() {
-		this.initWebGL();
+	init(imgs) {
+		this.initWebGL(imgs);
 		this.initGUI();
 		this.addListeners();
 		this.animate();
 		this.resize();
-	}
+		
 
-	initWebGL() {
-		this.webgl = new WebGLView(this);
+	}
+	clear(){
+		this.webgl.clear();
+	}
+	initWebGL(imgs) {
+		this.webgl = new WebGLView(this,imgs);
+		
 		document.querySelector('.container').appendChild(this.webgl.renderer.domElement);
 	}
 
-	initGUI() {
+	initGUI() { 
 		this.gui = new GUIView(this);
 	}
 

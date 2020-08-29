@@ -1,7 +1,8 @@
 import * as THREE from 'three';
 
 import { TweenLite } from 'gsap/TweenMax';
-import img_sample from '../../static/images/sample-10.png'
+
+
 import InteractiveControls from './controls/InteractiveControls';
 import Particles from './particles/Particles';
 
@@ -9,19 +10,21 @@ const glslify = require('glslify');
 
 export default class WebGLView {
 
-	constructor(app) {
+	constructor(app,imgs) {
 		this.app = app;
+		if(imgs==undefined){
+			this.samples=[];
+		}else{
+			this.samples=imgs;
 
-		this.samples = [
-			img_sample
-			
-		];
+		}
+		//this.samples = sathappan_imgs;
 
 		this.initThree();
 		this.initParticles();
 		this.initControls();
 
-		const rnd = ~~(Math.random() * this.samples.length);
+		const rnd = 0;
 		this.goto(rnd);
 	}
 
@@ -30,14 +33,18 @@ export default class WebGLView {
 		this.scene = new THREE.Scene();
 
 		// camera
-		this.camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 1, 10000);
+		this.camera = new THREE.PerspectiveCamera(50, (window.innerWidth) / window.innerHeight, 1, 10000);
 		this.camera.position.z = 300;
-
+			
 		// renderer
         this.renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
 
         // clock
 		this.clock = new THREE.Clock(true);
+	}
+	clear(){
+
+		this.renderer.clear();
 	}
 
 	initControls() {
@@ -60,8 +67,7 @@ export default class WebGLView {
 	}
 
 	draw() {
-		console.log(this.renderer);
-		console.log(this);
+	
 		this.renderer.render(this.scene, this.camera);
 	}
 
@@ -90,13 +96,13 @@ export default class WebGLView {
 
 	resize() {
 		if (!this.renderer) return;
-		this.camera.aspect = window.innerWidth / window.innerHeight;
+		this.camera.aspect =(window.innerWidth)/ window.innerHeight;
 		this.camera.updateProjectionMatrix();
 
 		this.fovHeight = 2 * Math.tan((this.camera.fov * Math.PI) / 180 / 2) * this.camera.position.z;
 
 		this.renderer.setSize(window.innerWidth, window.innerHeight);
-
+		
 		if (this.interactive) this.interactive.resize();
 		if (this.particles) this.particles.resize();
 	}
