@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62e49563e4d8cc19d9403556e489e3c7",
+    "revision": "c5b2f3aea0c21ab55b3159323d3ad8b1",
     "url": "/ubiquitous-bassoon/index.html"
   },
   {
-    "revision": "d979d3670c95ef333a52",
+    "revision": "e8ba642732676e32af42",
     "url": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ubiquitous-bassoon/static/js/2.0cabcf4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d979d3670c95ef333a52",
-    "url": "/ubiquitous-bassoon/static/js/main.edde95f8.chunk.js"
+    "revision": "e8ba642732676e32af42",
+    "url": "/ubiquitous-bassoon/static/js/main.51aaab51.chunk.js"
   },
   {
     "revision": "c2bd8600ea9bc3376ed7",

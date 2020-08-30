@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css",
-    "main.js": "/ubiquitous-bassoon/static/js/main.edde95f8.chunk.js",
-    "main.js.map": "/ubiquitous-bassoon/static/js/main.edde95f8.chunk.js.map",
+    "main.js": "/ubiquitous-bassoon/static/js/main.51aaab51.chunk.js",
+    "main.js.map": "/ubiquitous-bassoon/static/js/main.51aaab51.chunk.js.map",
     "runtime-main.js": "/ubiquitous-bassoon/static/js/runtime-main.7a30da87.js",
     "runtime-main.js.map": "/ubiquitous-bassoon/static/js/runtime-main.7a30da87.js.map",
     "static/js/2.0cabcf4b.chunk.js": "/ubiquitous-bassoon/static/js/2.0cabcf4b.chunk.js",
     "static/js/2.0cabcf4b.chunk.js.map": "/ubiquitous-bassoon/static/js/2.0cabcf4b.chunk.js.map",
     "index.html": "/ubiquitous-bassoon/index.html",
-    "precache-manifest.4fd90d2052f197202a0164a02c0e6de9.js": "/ubiquitous-bassoon/precache-manifest.4fd90d2052f197202a0164a02c0e6de9.js",
+    "precache-manifest.b4a12988546b3ed07ae9b3e3847041f8.js": "/ubiquitous-bassoon/precache-manifest.b4a12988546b3ed07ae9b3e3847041f8.js",
     "service-worker.js": "/ubiquitous-bassoon/service-worker.js",
     "static/css/main.319439b8.chunk.css.map": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css.map",
     "static/js/2.0cabcf4b.chunk.js.LICENSE.txt": "/ubiquitous-bassoon/static/js/2.0cabcf4b.chunk.js.LICENSE.txt",
@@ -91,6 +91,6 @@
     "static/js/runtime-main.7a30da87.js",
     "static/js/2.0cabcf4b.chunk.js",
     "static/css/main.319439b8.chunk.css",
-    "static/js/main.edde95f8.chunk.js"
+    "static/js/main.51aaab51.chunk.js"
   ]
 }
