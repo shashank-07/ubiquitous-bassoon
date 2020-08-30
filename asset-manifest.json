@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css",
-    "main.js": "/ubiquitous-bassoon/static/js/main.c1511028.chunk.js",
-    "main.js.map": "/ubiquitous-bassoon/static/js/main.c1511028.chunk.js.map",
+    "main.js": "/ubiquitous-bassoon/static/js/main.ba31585d.chunk.js",
+    "main.js.map": "/ubiquitous-bassoon/static/js/main.ba31585d.chunk.js.map",
     "runtime-main.js": "/ubiquitous-bassoon/static/js/runtime-main.7a30da87.js",
     "runtime-main.js.map": "/ubiquitous-bassoon/static/js/runtime-main.7a30da87.js.map",
-    "static/js/2.e7382732.chunk.js": "/ubiquitous-bassoon/static/js/2.e7382732.chunk.js",
-    "static/js/2.e7382732.chunk.js.map": "/ubiquitous-bassoon/static/js/2.e7382732.chunk.js.map",
+    "static/js/2.e2e55d01.chunk.js": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js",
+    "static/js/2.e2e55d01.chunk.js.map": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js.map",
     "index.html": "/ubiquitous-bassoon/index.html",
-    "precache-manifest.4a885fec05c70c06f916638ffd35cee0.js": "/ubiquitous-bassoon/precache-manifest.4a885fec05c70c06f916638ffd35cee0.js",
+    "precache-manifest.be8e5bc0ce3057fd82574627d0311cbf.js": "/ubiquitous-bassoon/precache-manifest.be8e5bc0ce3057fd82574627d0311cbf.js",
     "service-worker.js": "/ubiquitous-bassoon/service-worker.js",
     "static/css/main.319439b8.chunk.css.map": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css.map",
-    "static/js/2.e7382732.chunk.js.LICENSE.txt": "/ubiquitous-bassoon/static/js/2.e7382732.chunk.js.LICENSE.txt",
+    "static/js/2.e2e55d01.chunk.js.LICENSE.txt": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js.LICENSE.txt",
     "static/media/scene.module.css": "/ubiquitous-bassoon/static/media/FINALIG.7d511c7d.png",
     "static/media/akshaya-1.png": "/ubiquitous-bassoon/static/media/akshaya-1.ab97074a.png",
     "static/media/akshaya-2.png": "/ubiquitous-bassoon/static/media/akshaya-2.8f98c854.png",
@@ -76,6 +76,7 @@
     "static/media/surya-3.png": "/ubiquitous-bassoon/static/media/surya-3.ce8e380a.png",
     "static/media/surya-bck-1.JPG": "/ubiquitous-bassoon/static/media/surya-bck-1.bad730df.JPG",
     "static/media/surya-bck-2.JPG": "/ubiquitous-bassoon/static/media/surya-bck-2.2b891ad5.JPG",
+    "static/media/surya-bck-3.JPG": "/ubiquitous-bassoon/static/media/surya-bck-3.b0c472c3.JPG",
     "static/media/varshiny-2.png": "/ubiquitous-bassoon/static/media/varshiny-2.b75b1491.png",
     "static/media/varshiny-bck-1.JPG": "/ubiquitous-bassoon/static/media/varshiny-bck-1.503ca4ab.JPG",
     "static/media/varshiny-bck-2.JPG": "/ubiquitous-bassoon/static/media/varshiny-bck-2.3759b2ba.JPG",
@@ -90,8 +91,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7a30da87.js",
-    "static/js/2.e7382732.chunk.js",
+    "static/js/2.e2e55d01.chunk.js",
     "static/css/main.319439b8.chunk.css",
-    "static/js/main.c1511028.chunk.js"
+    "static/js/main.ba31585d.chunk.js"
   ]
 }

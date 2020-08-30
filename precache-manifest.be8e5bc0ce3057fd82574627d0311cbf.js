@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf7c75fa4e20b3f7a3e40859efa39df3",
+    "revision": "4eff23f3506d7c358f379e40ad7d7b1b",
     "url": "/ubiquitous-bassoon/index.html"
   },
   {
-    "revision": "e805e31e72523c24c911",
+    "revision": "9736ce0bd0028896eba1",
     "url": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css"
   },
   {
-    "revision": "5f73f9d30090be87cfa8",
-    "url": "/ubiquitous-bassoon/static/js/2.e7382732.chunk.js"
+    "revision": "4ee7dfebada2d5586bb9",
+    "url": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js"
   },
   {
     "revision": "9434fb467de6e22be11dfea21deb7eb5",
-    "url": "/ubiquitous-bassoon/static/js/2.e7382732.chunk.js.LICENSE.txt"
+    "url": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e805e31e72523c24c911",
-    "url": "/ubiquitous-bassoon/static/js/main.c1511028.chunk.js"
+    "revision": "9736ce0bd0028896eba1",
+    "url": "/ubiquitous-bassoon/static/js/main.ba31585d.chunk.js"
   },
   {
     "revision": "c2bd8600ea9bc3376ed7",
@@ -278,6 +278,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b891ad59f8e25f205a772daf66529f6",
     "url": "/ubiquitous-bassoon/static/media/surya-bck-2.2b891ad5.JPG"
+  },
+  {
+    "revision": "b0c472c35c2a46e2e63afce4d7ad17ce",
+    "url": "/ubiquitous-bassoon/static/media/surya-bck-3.b0c472c3.JPG"
   },
   {
     "revision": "b75b1491e889e3b262fb7a63923d90bc",
