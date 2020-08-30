@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4eff23f3506d7c358f379e40ad7d7b1b",
+    "revision": "49e6c4a3895af1dd1d01d35e5cd3291e",
     "url": "/ubiquitous-bassoon/index.html"
   },
   {
-    "revision": "9736ce0bd0028896eba1",
+    "revision": "44b9044d5c230c1e35b4",
     "url": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css"
   },
   {
-    "revision": "4ee7dfebada2d5586bb9",
-    "url": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js"
+    "revision": "4eca1fca7af43f390b30",
+    "url": "/ubiquitous-bassoon/static/js/2.f139898c.chunk.js"
   },
   {
     "revision": "9434fb467de6e22be11dfea21deb7eb5",
-    "url": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js.LICENSE.txt"
+    "url": "/ubiquitous-bassoon/static/js/2.f139898c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9736ce0bd0028896eba1",
-    "url": "/ubiquitous-bassoon/static/js/main.ba31585d.chunk.js"
+    "revision": "44b9044d5c230c1e35b4",
+    "url": "/ubiquitous-bassoon/static/js/main.11aee9d7.chunk.js"
   },
   {
     "revision": "c2bd8600ea9bc3376ed7",
@@ -202,6 +202,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1c4a96d433df492aab7cd7631fde8e76",
     "url": "/ubiquitous-bassoon/static/media/sachinT-bck-1.1c4a96d4.JPG"
+  },
+  {
+    "revision": "e08de988dcdaefef44bf0ee4ed3645ac",
+    "url": "/ubiquitous-bassoon/static/media/sairaj-1.e08de988.png"
+  },
+  {
+    "revision": "6b2b54c297969f25f8dc8ee9c71103e4",
+    "url": "/ubiquitous-bassoon/static/media/sairaj-2.6b2b54c2.png"
+  },
+  {
+    "revision": "e703f7b9a31dcf07235f8735d44f972d",
+    "url": "/ubiquitous-bassoon/static/media/sairaj-3.e703f7b9.png"
+  },
+  {
+    "revision": "9f833e4cef2f625b44ed7a9a69e2a665",
+    "url": "/ubiquitous-bassoon/static/media/sairaj-bck.9f833e4c.JPG"
   },
   {
     "revision": "96a76b925c0ebcd569bade3ddc46ee13",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css",
-    "main.js": "/ubiquitous-bassoon/static/js/main.ba31585d.chunk.js",
-    "main.js.map": "/ubiquitous-bassoon/static/js/main.ba31585d.chunk.js.map",
+    "main.js": "/ubiquitous-bassoon/static/js/main.11aee9d7.chunk.js",
+    "main.js.map": "/ubiquitous-bassoon/static/js/main.11aee9d7.chunk.js.map",
     "runtime-main.js": "/ubiquitous-bassoon/static/js/runtime-main.7a30da87.js",
     "runtime-main.js.map": "/ubiquitous-bassoon/static/js/runtime-main.7a30da87.js.map",
-    "static/js/2.e2e55d01.chunk.js": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js",
-    "static/js/2.e2e55d01.chunk.js.map": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js.map",
+    "static/js/2.f139898c.chunk.js": "/ubiquitous-bassoon/static/js/2.f139898c.chunk.js",
+    "static/js/2.f139898c.chunk.js.map": "/ubiquitous-bassoon/static/js/2.f139898c.chunk.js.map",
     "index.html": "/ubiquitous-bassoon/index.html",
-    "precache-manifest.be8e5bc0ce3057fd82574627d0311cbf.js": "/ubiquitous-bassoon/precache-manifest.be8e5bc0ce3057fd82574627d0311cbf.js",
+    "precache-manifest.7268845eddc4d2d2ac80707f6c5f2be9.js": "/ubiquitous-bassoon/precache-manifest.7268845eddc4d2d2ac80707f6c5f2be9.js",
     "service-worker.js": "/ubiquitous-bassoon/service-worker.js",
     "static/css/main.319439b8.chunk.css.map": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css.map",
-    "static/js/2.e2e55d01.chunk.js.LICENSE.txt": "/ubiquitous-bassoon/static/js/2.e2e55d01.chunk.js.LICENSE.txt",
+    "static/js/2.f139898c.chunk.js.LICENSE.txt": "/ubiquitous-bassoon/static/js/2.f139898c.chunk.js.LICENSE.txt",
     "static/media/scene.module.css": "/ubiquitous-bassoon/static/media/FINALIG.7d511c7d.png",
     "static/media/akshaya-1.png": "/ubiquitous-bassoon/static/media/akshaya-1.ab97074a.png",
     "static/media/akshaya-2.png": "/ubiquitous-bassoon/static/media/akshaya-2.8f98c854.png",
@@ -57,6 +57,10 @@
     "static/media/sachinT-2.png": "/ubiquitous-bassoon/static/media/sachinT-2.c0b06c16.png",
     "static/media/sachinT-3.png": "/ubiquitous-bassoon/static/media/sachinT-3.a7e104c4.png",
     "static/media/sachinT-bck-1.JPG": "/ubiquitous-bassoon/static/media/sachinT-bck-1.1c4a96d4.JPG",
+    "static/media/sairaj-1.png": "/ubiquitous-bassoon/static/media/sairaj-1.e08de988.png",
+    "static/media/sairaj-2.png": "/ubiquitous-bassoon/static/media/sairaj-2.6b2b54c2.png",
+    "static/media/sairaj-3.png": "/ubiquitous-bassoon/static/media/sairaj-3.e703f7b9.png",
+    "static/media/sairaj-bck.JPG": "/ubiquitous-bassoon/static/media/sairaj-bck.9f833e4c.JPG",
     "static/media/santosh-1.png": "/ubiquitous-bassoon/static/media/santosh-1.96a76b92.png",
     "static/media/santosh-2.png": "/ubiquitous-bassoon/static/media/santosh-2.39dd5940.png",
     "static/media/santosh-3.png": "/ubiquitous-bassoon/static/media/santosh-3.64f9bb27.png",
@@ -91,8 +95,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7a30da87.js",
-    "static/js/2.e2e55d01.chunk.js",
+    "static/js/2.f139898c.chunk.js",
     "static/css/main.319439b8.chunk.css",
-    "static/js/main.ba31585d.chunk.js"
+    "static/js/main.11aee9d7.chunk.js"
   ]
 }
