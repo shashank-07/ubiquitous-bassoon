@@ -11,6 +11,8 @@ import {prakhar} from '../static/highlights/prakhar'
 import {raj} from '../static/highlights/raj'
 import {rohan} from '../static/highlights/rohan'
 import {rutvik} from '../static/highlights/rutvik'
+import {sairaj} from '../static/highlights/sairaj'
+
 import {sachinC} from '../static/highlights/sachinC'
 import {sachinT} from '../static/highlights/sachinT'
 import {santosh} from '../static/highlights/santosh'
@@ -35,6 +37,7 @@ function Login(props) {
             case 'S@chin': obj=sachinC;break;
             case 'SachiN':obj=sachinT;break;
             case 'SaNtosh':obj=santosh;break;
+            case 'Sair@j':obj=sairaj;break;
             case 'Sath@ppan': obj=sathappan;break;
             case '$hivaranjani':obj=shiv;break;
             case '$ury@': obj=surya;break;
