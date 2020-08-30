@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5b2f3aea0c21ab55b3159323d3ad8b1",
+    "revision": "bf7c75fa4e20b3f7a3e40859efa39df3",
     "url": "/ubiquitous-bassoon/index.html"
   },
   {
-    "revision": "e8ba642732676e32af42",
+    "revision": "e805e31e72523c24c911",
     "url": "/ubiquitous-bassoon/static/css/main.319439b8.chunk.css"
   },
   {
-    "revision": "502e326ad8de2a7770b9",
-    "url": "/ubiquitous-bassoon/static/js/2.0cabcf4b.chunk.js"
+    "revision": "5f73f9d30090be87cfa8",
+    "url": "/ubiquitous-bassoon/static/js/2.e7382732.chunk.js"
   },
   {
     "revision": "9434fb467de6e22be11dfea21deb7eb5",
-    "url": "/ubiquitous-bassoon/static/js/2.0cabcf4b.chunk.js.LICENSE.txt"
+    "url": "/ubiquitous-bassoon/static/js/2.e7382732.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8ba642732676e32af42",
-    "url": "/ubiquitous-bassoon/static/js/main.51aaab51.chunk.js"
+    "revision": "e805e31e72523c24c911",
+    "url": "/ubiquitous-bassoon/static/js/main.c1511028.chunk.js"
   },
   {
     "revision": "c2bd8600ea9bc3376ed7",
@@ -154,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2664a4b273186b8150db2a7316930406",
     "url": "/ubiquitous-bassoon/static/media/rohan-2.2664a4b2.png"
+  },
+  {
+    "revision": "b54001eb022fc303f9f83e0f2d3fad47",
+    "url": "/ubiquitous-bassoon/static/media/rohan-bck-1.b54001eb.JPG"
   },
   {
     "revision": "ac8b71acbf1971f7e0ea6c6aa8c1e313",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ubiquitous-bassoon/precache-manifest.b4a12988546b3ed07ae9b3e3847041f8.js"
+  "/ubiquitous-bassoon/precache-manifest.4a885fec05c70c06f916638ffd35cee0.js"
 );
 
 self.addEventListener('message', (event) => {
