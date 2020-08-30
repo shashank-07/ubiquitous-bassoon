@@ -15,6 +15,9 @@ import {sachinC} from '../static/highlights/sachinC'
 import {sachinT} from '../static/highlights/sachinT'
 import {santosh} from '../static/highlights/santosh'
 import {shiv} from '../static/highlights/shiv'
+import {surya} from '../static/highlights/surya'
+import {varshiny} from '../static/highlights/varsh'
+import {vikram} from '../static/highlights/vikram'
 
 
 function Login(props) {
@@ -32,8 +35,12 @@ function Login(props) {
             case 'S@chin': obj=sachinC;break;
             case 'SachiN':obj=sachinT;break;
             case 'SaNtosh':obj=santosh;break;
-            case '$ath@ppan': obj=sathappan;break;
+            case 'Sath@ppan': obj=sathappan;break;
             case '$hivaranjani':obj=shiv;break;
+            case '$ury@': obj=surya;break;
+            case 'VarshinY': obj=varshiny;break;
+            case 'Vikr@m': obj=vikram;break;
+
             case 'sample':obj=shashank;break;
         }
         if(obj!==null){
@@ -41,7 +48,7 @@ function Login(props) {
             props.setScene(true);
     
         }else{
-            alert('Invalid ID!');
+            alert('Invalid ID!, Please contact Ann, Anjula or Shashank if you forgot');
         }
         
     }
