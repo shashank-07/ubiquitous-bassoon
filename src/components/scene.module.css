@@ -36,7 +36,8 @@
   border-color: black;
   background-color: rgba(0, 0, 0, 0.39);
   border-width: medium;
-color: lightcyan;
+color: white;
+
 }
 .loginform{
   width: 30%;
@@ -49,7 +50,7 @@ color: lightcyan;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   font-size: xx-large;
-  background: black;
-  color: yellow;
+  background-color: rgba(0, 0, 0, 0.39);
+  color: white;
 
 }
